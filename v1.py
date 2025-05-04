@@ -13,3 +13,5 @@ average_result = sum_result / 2
 # Output the results
 print(f"Sum: {sum_result}")
 print(f"Average: {average_result}")
+
+print("End of program")
