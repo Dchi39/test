@@ -14,5 +14,8 @@ average_result = sum_result / 2
 print(f"Sum: {sum_result}")
 print(f"Average: {average_result}")
 
+
 print("Edition 2")
 print("New feature added")
+print("End of program")
+
